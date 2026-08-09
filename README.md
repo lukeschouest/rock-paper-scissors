@@ -1,6 +1,6 @@
 # rock paper scissors project
 
-In this project I really focused on java and learning a lot of the basics and fundamentals
+In this project I really focused on javascript and learning a lot of the basics and fundamentals
 
 ## some of the skills i used are:
 
