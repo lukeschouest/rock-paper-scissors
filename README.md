@@ -9,4 +9,4 @@ In this project I really focused on java and learning a lot of the basics and fu
 3. Loops
 4. Variables & Scopes
 5. Parameters and arguments
-   6 Return Values
+6. Return Values
